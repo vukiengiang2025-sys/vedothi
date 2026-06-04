@@ -1,0 +1,6 @@
+{
+  "name": "MathPlot 2D/3D",
+  "description": "Ứng dụng vẽ và tương tác đồ thị hàm số 2D (Oxy) và 3D (Oxyz), tích hợp trợ lý AI toán học thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
